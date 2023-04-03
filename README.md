@@ -10,4 +10,4 @@
 - SwiftLint
 - VIPER
 
-![hippo](https://github.com/VictorinaVicka/iTunesSearch/raw/master/review/review.gif)
+![hippo](https://github.com/VictorinaVicka/iTunesSearch/blob/main/review/review.gif)
